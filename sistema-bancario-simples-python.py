@@ -4,9 +4,6 @@ saldo_em_conta = 0
 LIMITE_SAQUES = 3
 quantidade_de_saques = 1
 
-
-
-
 while True:
     print('---------- MENU ----------')
     print('')
