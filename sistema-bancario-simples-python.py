@@ -31,10 +31,10 @@ while True:
         print('')
         if quantidade_de_saques > LIMITE_SAQUES:
             print('Não é possível realizar mais de 3 saques diários!')
-            break
+            continue
         if saldo_em_conta == 0:
             print('Você não tem recursos para saque!')
-            break
+            continue
         saque = int(input('Insira um valor: '))
         while saque > 500:
             print('')
