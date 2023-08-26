@@ -1,0 +1,16 @@
+SAQUE
+
+No máximo 3 saques
+Limite máximo de 500 por saque
+Se não tiver saldo, exibir mensagem informando que não será possível sacar por falta de saldo
+Todos os saques devem ser armazenados em uma variável para ser exibida no extrato
+
+DEPÓSITO
+
+Valores positivos
+Depósitos armazenados em uma variável para ser exibida no extrato
+
+EXTRATO
+
+Listar todos os depósitos e saques realizados (valores exibidos no formato R$ 00.00)
+Exibir no final o saldo da conta (valor exibido no formato R$ 00.00)
